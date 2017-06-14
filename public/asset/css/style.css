@@ -1,0 +1,38 @@
+@font-face {font-family: 'JF Flat';src: url('../fonts/JF_Flat_regular.ttf');}
+body{font-family:'JF Flat';font-size:1.2rem;}
+.clear{clear:both;}
+nav.hnav{background:#424242;}
+nav.hnav a{color:#fff;}
+nav.hnav a:hover{color:#81D4FA;}
+.hpcontent, .hpcontent .rsltat{margin-top:30px;}
+.hpcontent a.addbtn, .hpcontent button.addbtn{background:#00BFA5;}
+.hpcontent .input-field a.addbtn, .hpcontent .input-field button.addbtn{width:100%;}
+.hpcontent a.addbtn:hover, .hpcontent button.addbtn:hover{background:#fff;color:#00BFA5;}
+.hpcontent .rsltat{background:#E8F5E9;padding: 20px 5px;}
+.hpcontent .rsltat .row{margin:0;}
+.hpcontent .rsltat .textr,.mpopup h4{text-align:right;font-size:2rem;}
+.hpcontent .rsltat .textc{color:#00BFA5;font-weight:bold;}
+.hpcontent .rsltat .textc{color:#00BFA5;font-weight:bold;}
+.hpcontent table thead tr th, .hpcontent table tbody tr td{text-align:center;font-size:1.4rem;}
+.hpcontent table a{color:#424242;}
+.hpcontent .dpbtn{background: none;border: none;}
+.hpcontent .dpbtn:hover{color:#00BFA5;}
+.hpcontent table tbody tr td a.bgcolor{background:#E8F5E9;color:#00BFA5;font-size:2.5rem;}
+.hpcontent table tbody tr td a.gcolor{background:#00BFA5;color:#E8F5E9;font-size:2.5rem;}
+.hpcontent table tbody.ed tr td a, .hpcontent .personed a{font-size:1.2rem;}
+.hpcontent table tbody.ed tr td a:hover{font-size:1.4rem;color:#00BFA5;}
+.hpcontent .personed, .validatemsg{text-align:right;}
+.errors{background:#ffdbdb;padding: 1px 10px;}
+.success{background:#DBFFE2;padding: 1px 10px;}
+.errors h5{color:red;}
+.hpcontent .personed a{color:#424242;}
+.hpcontent .personed a:hover{color:#00BFA5;}
+.mpopup a, .mpopup button{font-size: 1.4rem;font-weight: bold;height: 50px;line-height:50px;margin:0 !important;}
+.mpopup{padding: 15px 18px;}
+.mpopup a{background: #fff;color:#fd4747 !important;}
+.mpopup a:hover{background: #fd4747;color:#fff !important;}
+.mpopup button{background: #fff;color: #00BFA5;}    
+.mpopup button:hover{background: #00BFA5;color: #fff;}    
+.mpopup .modal-content, .mpopup .modal-footer{padding:0;height: 50px;}  
+.mpopup .modal-footer{margin-top:20px;}
+.errorpage img{margin: 100px auto;display: block;max-width: 100%;}
